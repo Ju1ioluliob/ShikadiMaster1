@@ -97,7 +97,7 @@ const CreateCampaign = () => {
         </div>
 
         <FormField 
-            labelName="Charity image *"
+            labelName="Campaign image *"
             placeholder="Place image URL of your campaign"
             inputType="url"
             value={form.image}
