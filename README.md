@@ -1,10 +1,10 @@
 ## PROJECT CROWDFUND
 
-This crowdfunding app app was made by Carolin Nielsen, Dahir Abdirahaman, 
+This crowdfunding app was made by Carolin Nielsen, Dahir Abdirahaman, 
 Sara Söderlind och Antony Pinto Avila. It was a group assigment in the course 
 "Agile project management" within the Blockchain developer program at Medieinstitutet 2023.
 
-Its build with React, NodeJS, Javascript vanilla, Hardhat and Solidity, and allows 
+It's built with React, NodeJS, Javascript vanilla, Hardhat and Solidity, and allows 
 users to create and fund their chosen projects with crypto using Metamask.
 
 Thank you to Javascript mastery for an excellent tutorial, and to Thirdweb for their
