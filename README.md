@@ -1,6 +1,6 @@
 ## PROJECT CROWDFUND
 
-This crowdfunding app app was made by Carolin Nielsen, Dahir AbdiRahaman, 
+This crowdfunding app app was made by Carolin Nielsen, Dahir Abdirahaman, 
 Sara Söderlind och Antony Pinto Avila. It was a group assigment in the course 
 "Agile project management" within the Blockchain developer program at Medieinstitutet 2023.
 
