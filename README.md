@@ -11,5 +11,6 @@ Thank you to Javascript mastery for an excellent tutorial, and to Thirdweb for t
 smooth service when deploying smart contracts. Huge thanks also to superb teacher Jenni Pulli 
 for all the support during this project.
 
+https://ephemeral-bienenstitch-7cc382.netlify.app/
 
 ![2023-01-07](https://user-images.githubusercontent.com/113106103/213424451-4ad24389-b24f-4b1f-b072-3a0a432a7d14.png)
